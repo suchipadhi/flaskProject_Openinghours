@@ -39,7 +39,7 @@ http://127.0.0.1:5000/open-time-stamp-conversion/
 ## 3. List of routes mentioned in the app
 
 Below i have mentioned the list of routes used in the app:
-* [http://127.0.0.1:5000/open-time-stamp-conversion/](as the name suggests we can provide input payload as raw JSON and get formatted human-readable times)
+* [http://127.0.0.1:5000/open-time-stamp-conversion/] (as the name suggests we can provide input payload as raw JSON and get formatted human-readable times)
 
 INPUT JSON:
 ```
