@@ -14,7 +14,7 @@ You'll need the following:
 
 You can clone the project from [Git repo].
    ```
-
+https://github.com/suchipadhi/flaskProject_Openinghours.git
   ```
 
 ## 2. Run the app locally
