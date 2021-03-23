@@ -41,6 +41,10 @@ http://127.0.0.1:5000/open-time-stamp-conversion/
 Below i have mentioned the list of routes used in the app:
 * [http://127.0.0.1:5000/open-time-stamp-conversion/] (as the name suggests we can provide input payload as raw JSON and get formatted human-readable times)
 
+## For PART 2 of the assignment:
+As the current JSON format data has key value pairs of type and the timing, it makes it more flexible to access the data structure and processing is a bit faster.
+
+
 INPUT JSON:
 ```
 {
@@ -131,3 +135,4 @@ RESPONSE JSON (human-readable time format):
     ]
 }
   ```
+
